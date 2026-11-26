@@ -1,0 +1,1 @@
+public class AnimalMain { public static void main(String[] args){ Animal a1=new Animal(); Animal a2=new Animal(70,5,10); System.out.println("Animal #1 memiliki kecepatan "+a1.getSpeed()); System.out.println("Animal #2 memiliki kecepatan "+a2.getSpeed()); }}
